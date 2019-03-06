@@ -5,6 +5,7 @@
  */
 body {
   padding-top: 56px;
+  background-color: #9D8A63;
 }
 
 .carousel-item {
@@ -15,6 +16,18 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.card-header {
+  background-color: peru;
+}
+
+.card-body {
+  background-color: beige;
+}
+
+.card-footer {
+  background-color: peru;
 }
 
 .portfolio-item {
