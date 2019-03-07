@@ -1,1 +1,1 @@
-web: php index.html
+web: node app.js
